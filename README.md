@@ -1,30 +1,34 @@
-To-Do List Manager (Python)
-A simple CLI-based To-Do List app in Python.
+# 📝 To-Do List Manager (Python CLI)
 
-🔹 Features
-Add tasks with status (Done/Not Done)
+A beginner-friendly **Command-Line To-Do List App** made with Python.  
+Easily **add**, **view**, and **delete** your tasks. Tasks are also saved to a `.txt` file!
 
-View all tasks
+---
 
-Delete tasks by name
+## 🚀 Features
+- ✅ Add tasks with completion status (Done / Not Done)
+- 📋 View all saved tasks
+- ❌ Delete tasks by name
+- 💾 Saves to `todolist.txt`
 
-Saves tasks to todolist.txt
+---
 
-▶️ How to Run
-bash
-Copy
-Edit
+## ▶️ How to Run
+```bash
 python todo.py
-🛠 Example
-makefile
-Copy
-Edit
-1: Buy groceries - [Done]
-2: Finish homework - [Not Done]
-💡 Future Ideas
-Edit/update tasks
 
-Save in JSON for full persistence
+ Example
 
-GUI version
+1: Complete assignment - [Done]
+2: Read a book - [Not Done]
 
+Ideas to Improve
+Update task status
+
+Store tasks in JSON for full persistence
+
+Add GUI or web interface
+
+🙌 Author
+Prakash Chaudhary
+Learning Python & AI
